@@ -1,2 +1,2 @@
 # git-project
-Welcome to my ne project
+Welcome to my new project
